@@ -31,7 +31,7 @@ I'm a skilled Geospatial Analyst with expertise in:
 Working on a World Bank funded project under the Punjab Government for:
 - Public Display of Maps & Removal of Anomalies after Updation Partitioning
 - Package 2 – Three Divisions: Gujranwala, Rawalpindi, Gujrat
-- **Project ID:** P172945
+
 
 ---
 

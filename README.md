@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases my work as a **Geospatial Analyst** and **GIS Developer**, highlighting my expertise in GIS mapping, remote sensing, Python scripting, and geospatial data analysis.
 
-🔗 **Live Website:** [https://muhammad-hass55.github.io](https://muhammad-hass55.github.io)
+🔗 **Live Website:** [https://github.com/MuhammadHassanAkhtar/muhammad-hass55.github.io](https://github.com/MuhammadHassanAkhtar/muhammad-hass55.github.io)
 
 ---
 
